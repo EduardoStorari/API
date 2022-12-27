@@ -1,2 +1,5 @@
 node_modules
 database.db
+src/database/database.db
+package-lock.json
+.gitignore
